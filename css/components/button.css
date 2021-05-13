@@ -1,0 +1,16 @@
+
+.btn-jp {
+	color: white;
+	border-radius: 3px;
+	padding: 7px 10px;
+	font-weight: bold;
+	background-color: #D4312D;
+  transition: 0.7s;
+  margin-top: 10px;
+}
+
+.btn-jp:hover {
+	text-decoration: none;
+	color: red;
+	background-color: black;
+}

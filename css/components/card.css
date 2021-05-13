@@ -1,0 +1,31 @@
+.card {
+  background-color: #E40105;
+  height: 150px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-style: solid;
+  border-radius: 20px;
+  box-shadow: 3px 3px 10px rgba(0,0,0,0.3);
+  opacity: 0.9;
+  margin-bottom: 45px;
+
+}
+
+.smaller-image {
+  height: 100px;
+}
+
+.card h4 {
+  font-size: 10px;
+}
+
+.card p {
+  font-size: 10px;
+}
+
+.card h4, p {
+  margin:0;
+}

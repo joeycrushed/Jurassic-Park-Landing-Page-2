@@ -1,0 +1,29 @@
+
+#banner {
+  height: 100vh;
+  color: white;
+  background: linear-gradient(-225deg, rgba(30,30,30,0.6) 30%, rgba(46,46,46,0.5) 80%), url("../../images/background_jp.png");
+  background-size: cover;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+}
+
+#banner h1 {
+  font-size: 80px;
+  font-weight: bold;
+  margin: 0;
+}
+
+#banner p {
+  font-size: 40px;
+  font-weight: lighter;
+  opacity: 08;
+  margin: 0px 0px 20px 0px;
+  marg
+}
+
+
+
+}
